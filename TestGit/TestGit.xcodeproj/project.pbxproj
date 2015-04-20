@@ -14,7 +14,7 @@
 		181DE5051AE4DEA100D2194C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181DE5041AE4DEA100D2194C /* Images.xcassets */; };
 		181DE5081AE4DEA100D2194C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 181DE5061AE4DEA100D2194C /* LaunchScreen.xib */; };
 		181DE5141AE4DEA100D2194C /* TestGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 181DE5131AE4DEA100D2194C /* TestGitTests.m */; };
-		181DE51E1AE4E07B00D2194C /* 123.png in Resources */ = {isa = PBXBuildFile; fileRef = 181DE51D1AE4E07B00D2194C /* 123.png */; };
+		181DE5201AE5034600D2194C /* 123.png in Resources */ = {isa = PBXBuildFile; fileRef = 181DE51F1AE5034600D2194C /* 123.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +41,7 @@
 		181DE50D1AE4DEA100D2194C /* TestGitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestGitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		181DE5121AE4DEA100D2194C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		181DE5131AE4DEA100D2194C /* TestGitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGitTests.m; sourceTree = "<group>"; };
-		181DE51D1AE4E07B00D2194C /* 123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 123.png; sourceTree = "<group>"; };
+		181DE51F1AE5034600D2194C /* 123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 123.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 		181DE4EB1AE4DEA100D2194C = {
 			isa = PBXGroup;
 			children = (
-				181DE51D1AE4E07B00D2194C /* 123.png */,
+				181DE51F1AE5034600D2194C /* 123.png */,
 				181DE4F61AE4DEA100D2194C /* TestGit */,
 				181DE5101AE4DEA100D2194C /* TestGitTests */,
 				181DE4F51AE4DEA100D2194C /* Products */,
@@ -202,7 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				181DE51E1AE4E07B00D2194C /* 123.png in Resources */,
+				181DE5201AE5034600D2194C /* 123.png in Resources */,
 				181DE5031AE4DEA100D2194C /* Main.storyboard in Resources */,
 				181DE5081AE4DEA100D2194C /* LaunchScreen.xib in Resources */,
 				181DE5051AE4DEA100D2194C /* Images.xcassets in Resources */,
@@ -420,6 +420,7 @@
 				181DE5191AE4DEA200D2194C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		181DE51A1AE4DEA200D2194C /* Build configuration list for PBXNativeTarget "TestGitTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +429,7 @@
 				181DE51C1AE4DEA200D2194C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
